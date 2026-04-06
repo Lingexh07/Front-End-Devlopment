@@ -10,4 +10,4 @@ Privew:
 3.Personal information demo-https://lingexh07.github.io/Front-End-Devlopment/personal%20information.html
 Privew:
 <img width="1035" height="596" alt="image" src="https://github.com/user-attachments/assets/292ffbd7-1468-4b0c-8653-855d1588c3e1" />
-
+4.flex box demo https://lingexh07.github.io/Front-End-Devlopment/lab5.html
