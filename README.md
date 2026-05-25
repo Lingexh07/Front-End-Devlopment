@@ -11,3 +11,5 @@ Privew:
 Privew:
 <img width="1035" height="596" alt="image" src="https://github.com/user-attachments/assets/292ffbd7-1468-4b0c-8653-855d1588c3e1" />
 4.flex box demo https://lingexh07.github.io/Front-End-Devlopment/lab5.html
+5.event handling demo https://lingexh07.github.io/Front-End-Devlopment/event.html
+<img width="1279" height="350" alt="Screenshot 2026-05-25 094820" src="https://github.com/user-attachments/assets/f3f8fa56-1a8a-46d7-9279-fd2c009fc3d1" />
