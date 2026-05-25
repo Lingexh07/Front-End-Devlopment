@@ -3,7 +3,7 @@ I am Yoga Lingesh form 1 BCA
 
 1.Registration form demo- https://lingexh07.github.io/Front-End-Devlopment/registration%20form.html
 Preview:
-img width="345" height="247" alt="image" src="https://github.com/user-attachments/assets/70c81cbe-c01e-4ee0-b89b-7a6f36915faa" />
+<img width="423" height="289" alt="Screenshot 2026-05-25 095814" src="https://github.com/user-attachments/assets/23d14264-4968-4721-a7d5-c7c649f2d493" />
 2.Notice board demo- https://lingexh07.github.io/Front-End-Devlopment/notice%20board.html
 Preview:
 <img width="1300" height="824" alt="image" src="https://github.com/user-attachments/assets/783c67e2-4c96-4cac-84eb-fb416de58aa7" />
