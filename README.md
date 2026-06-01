@@ -34,4 +34,5 @@ preview:
 <img width="788" height="378" alt="Screenshot 2026-06-01 100117" src="https://github.com/user-attachments/assets/b19dc72f-4b8d-4e2e-8b28-7a714678b2d1" />
 11.single page layout demo https://lingexh07.github.io/Front-End-Devlopment/singlepagelayout.html
 preview:
+<img width="1478" height="636" alt="image" src="https://github.com/user-attachments/assets/3065e45f-d5ce-42d3-a1a3-42b6e7c07a46" />
 
