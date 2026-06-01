@@ -35,4 +35,7 @@ preview:
 11.single page layout demo https://lingexh07.github.io/Front-End-Devlopment/singlepagelayout.html
 preview:
 <img width="1478" height="636" alt="image" src="https://github.com/user-attachments/assets/3065e45f-d5ce-42d3-a1a3-42b6e7c07a46" />
+12.react state mamnagement demo https://lingexh07.github.io/Front-End-Devlopment/React%20State%20Management.html
+preview:
+<img width="745" height="424" alt="Screenshot 2026-06-01 101240" src="https://github.com/user-attachments/assets/aaa85850-59dc-4163-8a9a-41de615dd823" />
 
