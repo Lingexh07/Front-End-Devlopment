@@ -20,3 +20,5 @@ preview:
 preview:
 <img width="1919" height="701" alt="Screenshot 2026-06-01 091905" src="https://github.com/user-attachments/assets/cc4ffc58-17ca-4ad0-b869-b67fd16d485f" />
 7.Image slider demo 
+preview:
+<img width="983" height="571" alt="image" src="https://github.com/user-attachments/assets/e88617e1-1821-45c3-a892-a0eb7713ddd9" />
