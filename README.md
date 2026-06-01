@@ -4,6 +4,7 @@ I am Yoga Lingesh form 1 BCA
 1.Registration form demo- https://lingexh07.github.io/Front-End-Devlopment/registration%20form.html
 Preview:
 <img width="423" height="289" alt="Screenshot 2026-05-25 095814" src="https://github.com/user-attachments/assets/23d14264-4968-4721-a7d5-c7c649f2d493" />
+
 2.Notice board demo- https://lingexh07.github.io/Front-End-Devlopment/notice%20board.html
 Preview:
 <img width="1300" height="824" alt="image" src="https://github.com/user-attachments/assets/783c67e2-4c96-4cac-84eb-fb416de58aa7" />
@@ -31,4 +32,6 @@ preview:
 10.font awesome demo https://lingexh07.github.io/Front-End-Devlopment/fontawesome.html
 preview:
 <img width="788" height="378" alt="Screenshot 2026-06-01 100117" src="https://github.com/user-attachments/assets/b19dc72f-4b8d-4e2e-8b28-7a714678b2d1" />
+11.single page layout demo https://lingexh07.github.io/Front-End-Devlopment/singlepagelayout.html
+preview:
 
