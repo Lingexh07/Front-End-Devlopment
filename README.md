@@ -22,3 +22,7 @@ preview:
 7.Image slider demo https://lingexh07.github.io/Front-End-Devlopment/image%20slider.html
 preview:
 <img width="983" height="571" alt="image" src="https://github.com/user-attachments/assets/e88617e1-1821-45c3-a892-a0eb7713ddd9" />
+8.responsive webpage demo https://lingexh07.github.io/Front-End-Devlopment/responsive%20webpage.html
+preview:
+<img width="1919" height="967" alt="Screenshot 2026-06-01 093920" src="https://github.com/user-attachments/assets/10ca56a5-80d8-4beb-83e6-4d329a3a13bd" />
+
