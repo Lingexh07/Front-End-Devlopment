@@ -16,3 +16,5 @@ preview:
 5.event handling demo https://lingexh07.github.io/Front-End-Devlopment/event.html
 preview:
 <img width="1279" height="350" alt="Screenshot 2026-05-25 094820" src="https://github.com/user-attachments/assets/f3f8fa56-1a8a-46d7-9279-fd2c009fc3d1" />
+6.digital clock demo https://lingexh07.github.io/Front-End-Devlopment/digital%20clock.html
+<img width="1919" height="701" alt="Screenshot 2026-06-01 091905" src="https://github.com/user-attachments/assets/cc4ffc58-17ca-4ad0-b869-b67fd16d485f" />
