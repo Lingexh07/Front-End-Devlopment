@@ -28,4 +28,7 @@ preview:
 9.bootstrap demo https://lingexh07.github.io/Front-End-Devlopment/bootstrap.html
 preview:
 <img width="1856" height="790" alt="image" src="https://github.com/user-attachments/assets/09fbe462-c4a2-44ce-a54a-da42df19aedc" />
+10.font awesome demo https://lingexh07.github.io/Front-End-Devlopment/fontawesome.html
+preview:
+<img width="788" height="378" alt="Screenshot 2026-06-01 100117" src="https://github.com/user-attachments/assets/b19dc72f-4b8d-4e2e-8b28-7a714678b2d1" />
 
