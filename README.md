@@ -42,4 +42,7 @@ preview:
 13.To Do List demo https://lingexh07.github.io/Front-End-Devlopment/todolist.html
 preview:
 <img width="328" height="165" alt="image" src="https://github.com/user-attachments/assets/8cfcad88-f1e4-4781-b63b-4c929bd9e8d4" />
+14.swiggy demo https://lingexh07.github.io/Front-End-Devlopment/swiggy.html
+preview:
+<img width="1910" height="917" alt="Screenshot 2026-06-02 115313" src="https://github.com/user-attachments/assets/117887c8-2162-4490-809a-10dc405af288" />
 
