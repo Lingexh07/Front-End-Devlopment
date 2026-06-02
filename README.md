@@ -48,4 +48,7 @@ preview:
 15.login page demo https://lingexh07.github.io/Front-End-Devlopment/login%20page.html
 preview:
 <img width="960" height="485" alt="Screenshot 2026-06-02 120035" src="https://github.com/user-attachments/assets/960c41cb-7522-40bb-a9fe-80e24b3a9e4a" />
-photo gallery demo
+photo gallery demo https://lingexh07.github.io/Front-End-Devlopment/photo%20gallery.html
+preview:
+<img width="1919" height="776" alt="Screenshot 2026-06-02 121013" src="https://github.com/user-attachments/assets/92e3214e-2daa-4a97-adb9-fa6aec3bd655" />
+
