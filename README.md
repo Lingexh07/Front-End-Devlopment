@@ -51,4 +51,16 @@ preview:
 16.photo gallery demo https://lingexh07.github.io/Front-End-Devlopment/photo%20gallery.html
 preview:
 <img width="1919" height="776" alt="Screenshot 2026-06-02 121013" src="https://github.com/user-attachments/assets/92e3214e-2daa-4a97-adb9-fa6aec3bd655" />
-17.
+17.calculator demo https://lingexh07.github.io/Front-End-Devlopment/calculator.html
+preview:
+<img width="697" height="638" alt="Screenshot 2026-06-03 105106" src="https://github.com/user-attachments/assets/6da4c0d7-80d1-42f4-8683-608531e85b28" />
+18.hover effect demo https://lingexh07.github.io/Front-End-Devlopment/hover%20effect.html
+preview:
+<img width="671" height="367" alt="Screenshot 2026-06-03 105418" src="https://github.com/user-attachments/assets/355d5e4a-c7ca-4755-9048-8efbfe48756d" />
+19.validation form demo https://lingexh07.github.io/Front-End-Devlopment/validation%20form.html
+preview:
+<img width="814" height="504" alt="Screenshot 2026-06-03 105555" src="https://github.com/user-attachments/assets/54695aab-a51e-4c05-b9c0-20e90c7539f2" />
+20.navbar demo https://lingexh07.github.io/Front-End-Devlopment/navbar.html
+preview:
+<img width="1917" height="234" alt="Screenshot 2026-06-03 105705" src="https://github.com/user-attachments/assets/e8488fe9-91f7-4ced-a850-0c3793aa4612" />
+
