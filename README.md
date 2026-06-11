@@ -77,3 +77,6 @@ preview:
 preview:
 <img width="1353" height="718" alt="Screenshot 2026-06-12 001023" src="https://github.com/user-attachments/assets/6175e439-6623-4117-aa20-73f1e2aafab0" />
 
+22.college websitebdemo https://lingexh07.github.io/Front-End-Devlopment/college%20web.html
+preview:
+<img width="1892" height="742" alt="Screenshot 2026-06-12 001720" src="https://github.com/user-attachments/assets/387ed475-b620-48a4-8117-54739a61cf4d" />
