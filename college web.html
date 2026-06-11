@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sparkle College</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI, sans-serif;
+}
+
+body{
+    background:#f8f9fa;
+}
+
+header{
+    background:#1e3a8a;
+    color:white;
+    padding:20px 50px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+}
+
+.hero{
+    height:80vh;
+    background:linear-gradient(rgba(0,0,0,.5),
+    rgba(0,0,0,.5)),
+    url('https://images.unsplash.com/photo-1562774053-701939374585');
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    color:white;
+}
+
+.hero h1{
+    font-size:50px;
+}
+
+.hero p{
+    margin:15px 0;
+    font-size:20px;
+}
+
+.btn{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.section{
+    padding:60px 40px;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:30px;
+    color:#1e3a8a;
+}
+
+.departments{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,.1);
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.highlights{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    text-align:center;
+}
+
+.highlight-box{
+    margin:15px;
+}
+
+.highlight-box h2{
+    color:#2563eb;
+}
+
+form{
+    max-width:500px;
+    margin:auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,.1);
+}
+
+input, select{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+}
+
+footer{
+    background:#1e3a8a;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h2>Sparkle College</h2>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Departments</a>
+        <a href="#">Admissions</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div>
+        <h1>Sparkle College</h1>
+        <p>Creating Tomorrow's Leaders Today</p>
+        <button class="btn">Explore Courses</button>
+    </div>
+</section>
+
+<section class="section">
+    <h2 class="section-title">Departments</h2>
+
+    <div class="departments">
+        <div class="card">
+            <h3>Computer Science</h3>
+            <p>AI, Data Science, Web Development.</p>
+        </div>
+
+        <div class="card">
+            <h3>Mechanical Engineering</h3>
+            <p>Advanced manufacturing and design.</p>
+        </div>
+
+        <div class="card">
+            <h3>Business Administration</h3>
+            <p>Management and entrepreneurship.</p>
+        </div>
+
+        <div class="card">
+            <h3>Electronics</h3>
+            <p>Embedded systems and robotics.</p>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background:white;">
+    <h2 class="section-title">Campus Highlights</h2>
+
+    <div class="highlights">
+        <div class="highlight-box">
+            <h2>5000+</h2>
+            <p>Students</p>
+        </div>
+
+        <div class="highlight-box">
+            <h2>200+</h2>
+            <p>Faculty Members</p>
+        </div>
+
+        <div class="highlight-box">
+            <h2>95%</h2>
+            <p>Placement Rate</p>
+        </div>
+
+        <div class="highlight-box">
+            <h2>50+</h2>
+            <p>Recruiting Companies</p>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <h2 class="section-title">Admission Form</h2>
+
+    <form id="admissionForm">
+        <input type="text" placeholder="Student Name" required>
+
+        <input type="email" placeholder="Email Address" required>
+
+        <select required>
+            <option>Select Course</option>
+            <option>B.Tech CSE</option>
+            <option>BBA</option>
+            <option>BCA</option>
+            <option>MBA</option>
+        </select>
+
+        <button type="submit" class="btn">
+            Apply Now
+        </button>
+    </form>
+</section>
+
+<footer>
+    <p>© 2026 Sparkle College | All Rights Reserved</p>
+</footer>
+
+<script>
+document.getElementById("admissionForm")
+.addEventListener("submit", function(e){
+
+    e.preventDefault();
+
+    alert("Application Submitted Successfully!");
+
+    this.reset();
+});
+</script>
+
+</body>
+</html>
