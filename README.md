@@ -73,3 +73,7 @@ preview:
 preview:
 <img width="1917" height="234" alt="Screenshot 2026-06-03 105705" src="https://github.com/user-attachments/assets/e8488fe9-91f7-4ced-a850-0c3793aa4612" />
 
+21. coffee shop demo https://lingexh07.github.io/Front-End-Devlopment/coffee%20shop.html
+preview:
+<img width="1353" height="718" alt="Screenshot 2026-06-12 001023" src="https://github.com/user-attachments/assets/6175e439-6623-4117-aa20-73f1e2aafab0" />
+
